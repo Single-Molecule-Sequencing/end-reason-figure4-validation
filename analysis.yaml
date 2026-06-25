@@ -1,6 +1,6 @@
-paper_id: end-reason-fresh
+paper_id: end-reason
 figure_id: fig.quality_cutting_res_e_regular
-companion_repo: Single-Molecule-Sequencing/end-reason-figure4-controlled-validation-composite
+companion_repo: Single-Molecule-Sequencing/end-reason-figure4-validation
 status: finalized
 owner: Athey Lab
 artifacts:

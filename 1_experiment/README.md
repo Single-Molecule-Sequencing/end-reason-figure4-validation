@@ -9,7 +9,7 @@
 ## TapeStation source (panel B)
 - File: `source_artwork/fig4_tapestation.png`
 - Embedded sample text in source artwork: `Cut Regular 3040`, `A3: 13653-RC-9 used 2uL`
-- Immediate upstream artwork source: `end-reason-fresh` @ `7e4590c`
+- Immediate upstream artwork source: `end_reason_6_5_26` @ `cad2fd9`
 
 ## Panel provenance summary
 - **Panel A:** clipped vector region from `source_artwork/fig4_ab_protocol_tapestation_src.pdf` (upstream composite source-artwork)

@@ -2,7 +2,7 @@
 """Assemble the Figure 4 controlled-validation three-panel composite.
 
 Layout (clean, vector + one raster):
-  Row A  Experimental protocol  -- clipped full-width from the end-reason-fresh
+  Row A  Experimental protocol  -- clipped full-width from the source-artwork
          composite; the stray duplicate "B" / "653-RC-9" / "Cut Regular 3040"
          labels that overlap the protocol's lower band are whited out.
   Row B  TapeStation electropherogram -- the standalone raster
