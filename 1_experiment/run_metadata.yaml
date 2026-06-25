@@ -1,0 +1,7 @@
+run_id: 20250519_1041_MN48328_AYJ384_c3faa658
+condition: Cutting-resistant E Regular
+platform: ONT MinION
+sample_note_from_tapestation: A3: 13653-RC-9 used 2uL
+panel_c_analysis_repo: Single-Molecule-Sequencing/end-reason-figure3-real-distributions
+panel_c_analysis_commit: 3eac427
+panel_c_artifact: 1_experiment/source_artwork/panel_c_fig3_real_distributions.pdf

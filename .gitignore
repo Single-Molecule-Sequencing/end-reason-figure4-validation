@@ -1,0 +1,4 @@
+.venv/
+*.rebuilt.pdf
+*.rebuilt.png
+*.rebuilt.svg

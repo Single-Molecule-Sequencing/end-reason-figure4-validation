@@ -1,0 +1,10 @@
+[
+  {
+    "id": "panel_ab_editable_source_unavailable",
+    "status": "open",
+    "scope": "panel_a,panel_b",
+    "description": "Original editable authoring file(s) for A/B source-artwork are not present in this repo or upstream commits used for assembly. This companion redistributes only committed rendered source-artwork files.",
+    "impact": "from-scratch re-layout in original authoring tool cannot be reproduced",
+    "mitigation": "committed rendered source-artwork files are provided; panel extraction and composition are deterministic via 2_analysis/scripts/assemble_controlled_validation_composite.py"
+  }
+]

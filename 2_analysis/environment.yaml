@@ -1,0 +1,7 @@
+name: end-reason-fig4
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pymupdf>=1.24
+  - poppler

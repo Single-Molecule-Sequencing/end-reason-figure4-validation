@@ -1,0 +1,4 @@
+panel,source_repo,source_commit,source_artifact,redistributable,notes
+A_experimental_protocol,Single-Molecule-Sequencing/end-reason-fresh,7e4590c,1_experiment/source_artwork/fig4_ab_protocol_tapestation_src.pdf,yes,Vector clip from top-left protocol region
+B_tapestation,Single-Molecule-Sequencing/end-reason-fresh,7e4590c,1_experiment/source_artwork/fig4_tapestation.png,yes,Standalone TapeStation image with embedded sample note
+C_distribution_graphs,Single-Molecule-Sequencing/end-reason-figure3-real-distributions,3eac427,1_experiment/source_artwork/panel_c_fig3_real_distributions.pdf,yes,Data-derived KDE panel from controlled-validation analysis repo

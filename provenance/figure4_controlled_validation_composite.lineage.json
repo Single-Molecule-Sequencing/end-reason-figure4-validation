@@ -1,0 +1,28 @@
+{
+  "figure_id": "fig3_run_cutting-res-e_regular_three_panel",
+  "paper_id": "end-reason",
+  "generated_at": "2026-06-25T00:00:00Z",
+  "source_repo": "ASSEMBLED (A+B end-reason-fresh; C end-reason-figure3-real-distributions)",
+  "source_commit": "reassembled-2026-06-25",
+  "source_path": "(composite \u2014 see panels)",
+  "sha256": "ae7cca17446c329b384de6b308f7f490a53302a3a9c95c030d5319f6b999c75c",
+  "regenerable": true,
+  "panels": {
+    "A_experimental_protocol": {
+      "source_repo": "Single-Molecule-Sequencing/end-reason-fresh",
+      "source_commit": "7e4590c",
+      "source_material": "clipped (ink-detected, top-left) from manuscript/figures/source_artwork/fig4_ab_protocol_tapestation_src.pdf; placed FULL-WIDTH on its own top row (~2.3x larger) for legibility"
+    },
+    "B_tapestation": {
+      "source_repo": "Single-Molecule-Sequencing/end-reason-fresh",
+      "source_commit": "7e4590c",
+      "source_material": "standalone TapeStation raster source_artwork/fig4_tapestation.png (carries its own 'Cut Regular 3040' title + 'A3: 13653-RC-9 used 2uL' note), placed CENTERED and large (452pt) with a fresh typeset 'B' panel label at the left margin aligned under the 'A' label"
+    },
+    "C_distribution_graphs": {
+      "source_repo": "Single-Molecule-Sequencing/end-reason-figure3-real-distributions",
+      "source_commit": "3eac427",
+      "source_material": "3_results/figures/fig3_real_distributions.pdf (NEW updated distributions)"
+    }
+  },
+  "notes": "Re-assembled 2026-06-25 (scripts/assemble_fig3_composite.py): clean 3-row layout. Row A protocol (full width; stray duplicate B/653-RC-9/Cut-Regular labels in the protocol's lower band whited out). Row B the standalone TapeStation raster centred + enlarged with a fresh margin-aligned 'B' label. Row C distributions native from end-reason-figure3-real-distributions."
+}

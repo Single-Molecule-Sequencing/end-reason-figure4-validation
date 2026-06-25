@@ -1,0 +1,18 @@
+panel_a:
+  label: A_experimental_protocol
+  source_repo: Single-Molecule-Sequencing/end-reason-fresh
+  source_commit: 7e4590c
+  source_artifact: 1_experiment/source_artwork/fig4_ab_protocol_tapestation_src.pdf
+  extraction: clipped top-left protocol region; placed full-width in composite row A
+panel_b:
+  label: B_tapestation
+  source_repo: Single-Molecule-Sequencing/end-reason-fresh
+  source_commit: 7e4590c
+  source_artifact: 1_experiment/source_artwork/fig4_tapestation.png
+  extraction: standalone TapeStation raster placed centered in composite row B
+panel_c:
+  label: C_distribution_graphs
+  source_repo: Single-Molecule-Sequencing/end-reason-figure3-real-distributions
+  source_commit: 3eac427
+  source_artifact: 1_experiment/source_artwork/panel_c_fig3_real_distributions.pdf
+  extraction: full panel imported as vector PDF into composite row C

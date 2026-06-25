@@ -1,0 +1,12 @@
+paper_id: end-reason-fresh
+figure_id: fig.quality_cutting_res_e_regular
+companion_repo: Single-Molecule-Sequencing/end-reason-figure4-controlled-validation-composite
+status: finalized
+owner: Athey Lab
+artifacts:
+  final_pdf: 3_results/figures/figure4_controlled_validation_composite.pdf
+  final_png: 3_results/figures/figure4_controlled_validation_composite.png
+  final_svg: 3_results/figures/figure4_controlled_validation_composite.svg
+provenance:
+  lineage: provenance/figure4_controlled_validation_composite.lineage.json
+  unresolved: provenance/unresolved.json
