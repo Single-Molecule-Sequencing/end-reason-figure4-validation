@@ -1,5 +1,8 @@
 # End Reason Figure 4 Controlled-Validation Composite
 
+> 📄 Companion repository for the **End Reason** Data Descriptor — canonical manuscript: [Single-Molecule-Sequencing/end_reason_6_5_26](https://github.com/Single-Molecule-Sequencing/end_reason_6_5_26).
+
+
 Companion repository for the manuscript controlled-validation composite used as:
 - `fig.quality_cutting_res_e_regular`
 - `manuscript/figures/fig3_run_cutting-res-e_regular_three_panel.pdf`
