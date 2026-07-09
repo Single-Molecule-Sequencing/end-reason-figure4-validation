@@ -1,3 +1,6 @@
+schema_version: 1
+id: end-reason-figure4-validation
+title: 'End Reason Figure 4: Controlled-Validation Composite'
 paper_id: end-reason
 figure_id: fig.quality_cutting_res_e_regular
 companion_repo: Single-Molecule-Sequencing/end-reason-figure4-validation
