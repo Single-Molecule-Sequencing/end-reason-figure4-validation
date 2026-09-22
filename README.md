@@ -1,6 +1,6 @@
 # End Reason Figure 4 Controlled-Validation Composite
 
-> 📄 Companion repository for the **End Reason** Data Descriptor — canonical manuscript: [Single-Molecule-Sequencing/end_reason_6_5_26](https://github.com/Single-Molecule-Sequencing/end_reason_6_5_26).
+> Companion repository for the **End Reason** Data Descriptor (Athey Lab). Canonical manuscript source: `Single-Molecule-Sequencing/end_reason_6_5_26`, currently a private repository, so it is named here rather than linked.
 
 
 Companion repository for the manuscript controlled-validation composite used as:
